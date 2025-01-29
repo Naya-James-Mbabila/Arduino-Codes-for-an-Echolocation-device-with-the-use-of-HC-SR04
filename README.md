@@ -60,9 +60,6 @@ where XX is the distance in centimeters.
 ## Contributing
 Feel free to fork this repository and submit pull requests for any improvements.
 
-## License
-[Add your chosen license here]
-
 ## Troubleshooting
 - Ensure all connections are secure
 - Check if the buzzer is properly connected (correct polarity)
